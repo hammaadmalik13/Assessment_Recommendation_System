@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SHL Conversational Assessment Recommender
 
 FastAPI service implementing a stateless conversational recommender for SHL assessments.
@@ -46,3 +47,6 @@ Use:
 
 > Note: scraper output may need manual enrichment (description/tags/levels) for better recommendation quality.
 
+=======
+# Assessment_Recommendation_System
+>>>>>>> dd6b111f4fc4eb76528be3a0d86aa0c064e552c3
